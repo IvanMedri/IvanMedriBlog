@@ -2,6 +2,7 @@
 ---
 
 @import "minima";
+@import "{{ site.theme }}";
 
 body {
     background-color: black;
